@@ -1,16 +1,17 @@
-title: Link free
-shortTitle: Link free
-siteUrl: https://themes.marscollective.co/link-free
-description: ''
-lang: en
+title: Share-a-Link
+shortTitle: Share-a-Link
+description: A very quick and dirty way to own your data and share links to your sites.
 logo: logo.png
 favicon: favicon.png
-rounded: '16'
 colors:
-  DEFAULT: '#FAFAFA'
-  highlight: '#00d1b7'
-  accent: '#262626'
-  background: '#262626'
+  DEFAULT: "#FAFAFA"
+  highlight: "#00d1b7"
+  accent: "#262626"
+  background: "#262626"
+rounded: "16"
+siteUrl: https://themes.marscollective.co/link-free
+lang: en
 tracking:
   which: none
-  id: ''
+  id: ""
+  label: none
